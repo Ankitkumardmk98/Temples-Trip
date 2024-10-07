@@ -1,0 +1,11 @@
+  =>  Template Name    : Temples Trip
+
+  =>  Template Link    : https://github.com/Ankitkumardmk98/hotel-html-template
+
+  =>  Template License : https://github.com/Ankitkumardmk98/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Ankit
+
+  =>  Author Website   : https://github.com/Ankitkumardmk98
+
+  =>  About Ankit : Ankit is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://github.com/Ankitkumardmk98/about-us )
